@@ -5,31 +5,10 @@
 <div>
   <p>
 </br>
- - Sou Programador Front-End, 
- </br>
- - I'm a Front-end Developer,
-</br>
-</br>
- - Trabalho como freelancer, 
-</br>
- - I am working as a Freelancer,
-</br>
-</br>
- - Sou sócio/membro do DevClub, criado por Rodolfo Mori,
- </br>
- - I am a DevClub's partner/member, Created by Rodolfo Mori,
-</br>
-</br>
- - Falo Português e Inglês,
- </br>
- - My languages are Portuguese and English,
-</br>
-</br>
+
+## Português
+ - Sou Programador Front-End, trabalho como freelancer. Sou sócio/membro do DevClub, criado por Rodolfo Mori. Falo Português e Inglês.
  - Atualmente trabalho com as seguintes tecnologias: 
- </br>
- - I currently work with the following technologies:
-</br>
-</br>
 </p>
 
 #### ♦ HTML 
@@ -39,6 +18,21 @@
 #### ♦ GITHUB
 #### ♦ VS CODE
 
+<hr>
+
+## English
+<p>
+- I'm a Front-end Developer, I am working as a Freelancer. I am a DevClub's partner/member, Created by Rodolfo Mori. My languages are Portuguese and English.
+- I currently work with the following technologies:
+</p>
+#### ♦ HTML 
+#### ♦ CSS
+#### ♦ JAVASCRIPT
+#### ♦ GIT
+#### ♦ GITHUB
+#### ♦ VS CODE
+
+<hr>
 </div>
 
 
