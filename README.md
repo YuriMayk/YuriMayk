@@ -25,6 +25,8 @@
 - I'm a Front-end Developer, I am working as a Freelancer. I am a DevClub's partner/member, Created by Rodolfo Mori. My languages are Portuguese and English.
 - I currently work with the following technologies:
 </p>
+
+
 #### ♦ HTML 
 #### ♦ CSS
 #### ♦ JAVASCRIPT
