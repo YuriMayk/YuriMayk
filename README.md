@@ -1,7 +1,7 @@
 ## Olá, me chamo Yuri Mayk. - Hello, I am Yuri Mayk.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=YuriMayk&color=f8efd4&style=for-the-badge&logo=GitHub">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=YuriMayk&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<a href="https://www.linkedin.com/in/yurimayk/"><img src="https://img.shields.io/static/v1?label=Overview&message=YuriMayk&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=YuriMayk&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"> </a>
 <div>
   <p>
 </br>
@@ -50,7 +50,7 @@
   <a href="mailto:yuri.mayk@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/yuri-m-88a426a3/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/yurimayk/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   
