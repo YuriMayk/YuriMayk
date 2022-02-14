@@ -25,6 +25,7 @@
 #### ♦ GIT
 #### ♦ GITHUB
 #### ♦ VS CODE
+#### ♦ NODEJS
 
 <hr>
 
@@ -41,6 +42,7 @@
 #### ♦ GIT
 #### ♦ GITHUB
 #### ♦ VS CODE
+#### ♦ NODEJS
 
 <hr>
 </div>
