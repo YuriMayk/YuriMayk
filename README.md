@@ -26,6 +26,7 @@
 #### ♦ GITHUB
 #### ♦ VS CODE
 #### ♦ NODEJS
+#### ♦ REACT(Iniciando aprendizado)
 
 <hr>
 
@@ -43,6 +44,7 @@
 #### ♦ GITHUB
 #### ♦ VS CODE
 #### ♦ NODEJS
+#### ♦ REACT(Starting to Learn)
 
 <hr>
 </div>
