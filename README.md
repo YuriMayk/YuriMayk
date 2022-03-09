@@ -2,6 +2,9 @@
 
 <a href="https://www.linkedin.com/in/yurimayk/"><img src="https://img.shields.io/static/v1?label=Overview&message=YuriMayk&color=f8efd4&style=for-the-badge&logo=GitHub">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=YuriMayk&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"> </a>
+
+[![YuriMayk](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMayk&hide=html&layout=compact&theme=default)](https://github.com/YuriMayk/)
+
 <div>
   <p>
 </br>
@@ -57,8 +60,7 @@
   <a href="https://www.linkedin.com/in/yurimayk/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
 
 <hr>
 
