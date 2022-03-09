@@ -16,9 +16,6 @@
   <p>
 </br>
 </br>
-</br>
-</br>
-</br>
 
 ## Português
  - Sou Programador Front-End, trabalho como freelancer. Sou sócio/membro do DevClub, criado por Rodolfo Mori. Falo Português e Inglês.
