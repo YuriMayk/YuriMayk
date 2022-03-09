@@ -17,7 +17,7 @@
 </br>
 </br>
 
-## Português
+## Em Português...
  - Sou Programador Front-End, trabalho como freelancer. Sou sócio/membro do DevClub, criado por Rodolfo Mori. Falo Português e Inglês.
  - Atualmente trabalho com as seguintes tecnologias: 
 </p>
@@ -33,7 +33,7 @@
 
 <hr>
 
-## English
+## In English...
 <p>
 - I'm a Front-end Developer, I am working as a Freelancer. I am a DevClub's partner/member, Created by Rodolfo Mori. My languages are Portuguese and English.
 - I currently work with the following technologies:
