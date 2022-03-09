@@ -4,11 +4,11 @@
 <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=YuriMayk&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"> 
 </a> -->
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMayk&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriMayk&theme=default&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuriMayk&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuriMayk&show_icons=true&theme=default&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 
