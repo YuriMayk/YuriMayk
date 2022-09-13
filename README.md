@@ -19,7 +19,7 @@
 
 ## Em Português...
  - Sou Programador Front-End, trabalho como freelancer. Sou sócio/membro do DevClub, criado por Rodolfo Mori. Falo Português e Inglês.
- - Atualmente trabalho com as seguintes tecnologias: 
+ - As tecnologias que possuo conhecimento e me identifico são:
 </p>
 
 #### ♦ HTML 
@@ -32,28 +32,10 @@
 #### ♦ REACT(Iniciando aprendizado)
 
 <hr>
-
-## In English...
-<p>
-- I'm a Front-end Developer, I am working as a Freelancer. I am a DevClub's partner/member, Created by Rodolfo Mori. My languages are Portuguese and English.
-- I currently work with the following technologies:
-</p>
-
-
-#### ♦ HTML 
-#### ♦ CSS
-#### ♦ JAVASCRIPT
-#### ♦ GIT
-#### ♦ GITHUB
-#### ♦ VS CODE
-#### ♦ NODEJS
-#### ♦ REACT(Starting to Learn)
-
-<hr>
 </div>
 
 
-<p align="left">
+<p align="left">Entre em contato comigo: </p>
   <a href="mailto:yuri.mayk@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
