@@ -17,8 +17,10 @@
 </br>
 </br>
 
-## Em Português...
- - Sou Programador Front-End, trabalho como freelancer. Sou sócio/membro do DevClub, criado por Rodolfo Mori. Falo Português e Inglês.
+## Um pouco sobre mim...
+ - Sou Programador Front-End, trabalho como freelancer.
+ - Falo Português e Inglês.
+ - Sou sócio/membro do DevClub, criado por Rodolfo Mori.
  - As tecnologias que possuo conhecimento e me identifico são:
 </p>
 
