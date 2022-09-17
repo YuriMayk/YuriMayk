@@ -11,7 +11,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YuriMayk&show_icons=true&theme=default&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-
 <div>
   <p>
 </br>
