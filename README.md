@@ -35,7 +35,6 @@
 <hr>
 </div>
 
-
 <p align="left">Entre em contato comigo: </p>
   <a href="mailto:yuri.mayk@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
